@@ -6,12 +6,15 @@
     <feature name="Device">
         <param name="browser-package" value="Device" />
     </feature>
-    <name>iframeApp</name>
     <description>
         Hello World sample application that responds to the deviceready event.
     </description>
-    <author email="support@phonegap.com" href="http://phonegap.com">
-        PhoneGap Team
+    <name>Bleemen</name>
+    <description>
+        An App That Just Takes An Iframe.
+    </description>
+    <author email="support@evelt.com" href="http://evelt.com">
+        Evelt Team
     </author>
     <content src="index.html" />
     <access origin="*" />
